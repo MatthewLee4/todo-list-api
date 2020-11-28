@@ -1,7 +1,6 @@
 {
   "name": "todo-list-api",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,6 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewLee4/todo-list-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MatthewLee4/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/MatthewLee4/todo-list-api#readme",
+  "description": ""
 }
